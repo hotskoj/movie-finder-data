@@ -1,0 +1,1 @@
+This project creates an express server that queries for movies in the OMDb API depending on the query sent from the user. The server stores already queried movies into an array and will check if it has already queried for a movie and send over the previous results before attempting to query the OMBb API.
